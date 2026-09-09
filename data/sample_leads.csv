@@ -1,0 +1,9 @@
+lead_id,company_name,contact_name,job_title,email,phone,source,created_at,last_contact_at,status,notes,previous_demo,previous_proposal
+SYN-001,Sample Company A,Alex Morgan,Operations Lead,alex.morgan@example.com,+1 202 555 0101,Inbound,2025-02-10,2025-05-18,Dormant,"Asked about reporting workflows and team visibility",true,false
+SYN-002,Sample Company B,Jordan Lee,Founder,jordan.lee@example.com,+1 202 555 0102,Referral,2024-11-03,2025-01-15,Dormant,"Requested pricing and paused the evaluation due to competing priorities",false,true
+SYN-003,Sample Company C,Casey Taylor,,casey.taylor@example.com,,Website,2025-06-22,,Dormant,"Initial contact only; limited information available",false,false
+SYN-004,Sample Company D,Riley Chen,Finance Manager,,+1 202 555 0104,Event,2024-08-14,2024-10-02,Dormant,"Showed interest in better operational reporting and cost visibility",true,true
+SYN-005,Sample Company E,Jamie Patel,Partner,jamie.patel@example.com,+1 202 555 0105,Inbound,2025-03-07,2025-03-20,Dormant,"Positive early conversation but no recent engagement",false,false
+SYN-006,Sample Company F,Sam Rivera,,sam.rivera@example.com,,Outbound,2024-12-01,2024-12-05,Dormant,"No clear buying signal recorded",false,false
+SYN-007,Sample Company G,Taylor Brooks,Director,taylor.brooks@example.com,+1 202 555 0107,Referral,2025-01-19,2025-04-11,Dormant,"Attended a product demo and asked about implementation timing",true,true
+SYN-008,Sample Company H,Morgan Kim,Manager,,+1 202 555 0108,Website,2025-04-02,2025-04-02,Dormant,"Needs additional discovery before qualification",false,false
